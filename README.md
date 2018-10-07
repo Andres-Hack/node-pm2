@@ -1,0 +1,2 @@
+# node-pm2
+Nodejs monitoreado usando PM2.  La supervisión de Nodejs en el servidor de producción es una parte muy importante y crítica en el desarrollo general de la aplicación Nodejs. A diferencia de la puesta en escena o el escenario de desarrollo, si algo sale mal en el servidor de producción, afecta directamente al usuario final y, lo que es más importante, a su cliente. En este tutorial veremos cómo monitorear adecuadamente nuestro servidor Nodejs después de implementarlo en producción utilizando el módulo de nodo PM2 y la clave de datos como plataforma de análisis.
