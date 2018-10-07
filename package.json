@@ -1,0 +1,14 @@
+{
+ "name": "node-pm2",
+ "description": "este es un ejemplo con node y pm2",
+ "author": "Andres Mamani Perez <andres.mamani@agetic.gob.bo>",
+ "version": "0.0.1",
+ "private": true,
+ "license": "MIT",
+ "scripts": {
+  "start": "node app.js"
+ },
+ "dependencies": {
+  "express": "^4.16.3"
+ }
+}
